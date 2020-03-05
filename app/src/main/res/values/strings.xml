@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WifiTraffic</string>
+    <string name="action_settings">Settings</string>
+    <string name="red">red</string>
+    <string name="yellow">yellow</string>
+    <string name="green">green</string>
+</resources>
+
+
