@@ -24,7 +24,7 @@ Below are the screenshots of different colors displayed in WifiTraffic app based
 ![](Images/green.PNG)        
 
 2. yellow - when the number of users are between 11 and 15, it means wifi access point is getting crowded 
-and user need to search for access point nearby.
+and user need to search for another access point nearby.
 
 ![](Images/yellow.PNG)
 
